@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: linear-gradient(to bottom,#e5003d 0%,#f72c62 100%) !important;
+}
+.nav-link{
+    color: black !important;
+}
+.nav-item-me li a{
+    font-weight: 600;
+    font-size: 13px !important;
+    padding: 0px 10px  !important;
+    font-family: 'Quicksand',sans-serif;
+}
+@media (max-width:768px){
+    header{
+        width: 100%;
+    }
+
+}
