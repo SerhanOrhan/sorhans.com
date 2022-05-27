@@ -26,11 +26,7 @@ header{
     padding: 0px 10px  !important;
     font-family: 'Quicksand',sans-serif;
 }
-@media (max-width:768px){
-    header{
-        width: 100%;
-    }
-}
+
 .image-content{
     margin: 0;
     margin-bottom: 30px;

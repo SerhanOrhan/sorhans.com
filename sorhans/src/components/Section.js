@@ -7,10 +7,10 @@ function Section() {
   return (
     <div className='container-fluid m-0 p-0'>
       <div className="row image-content">
-        <div className="col p-0">
+        <div className="col-sm p-0">
           <SectionCardXL />
         </div>
-        <div className="col p-0">
+        <div className="col-sm p-0">
           <div className='row m-0'>
             <SectionCardSm />
             <SectionCardSm />

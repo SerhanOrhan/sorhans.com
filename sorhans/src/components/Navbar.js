@@ -4,8 +4,8 @@ function Navbar() {
   return (
     <div className='p-0'>
         <header>
-        <div className="container header-container mb-4 p-0">
-          <div className="container p-0 m-0 row align-items-center pt-4">
+        <div className="container header-container mb-4 p-0  navbar navbar-expand-lg">
+          <div className="container p-0 m-0 row align-items-center pt-4 ">
             <div className="navbar-logo col-sm-2 p-0">
               <a className="navbar-brand me-3 fw-bolder" href="#">SORHANS</a>
             </div>

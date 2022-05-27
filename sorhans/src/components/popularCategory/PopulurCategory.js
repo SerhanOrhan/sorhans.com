@@ -2,7 +2,7 @@ import React from 'react'
 
 function PopulurCategory() {
     return (
-        <div className='popular-full-content w-100 col'>
+        <div className='popular-full-content w-100 col-sm'>
             <div className="card popular-category-card">
                 <div className='cat-icon w-100'>
                     <a href="#">
